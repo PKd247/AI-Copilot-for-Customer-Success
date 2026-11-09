@@ -8,11 +8,11 @@ The goal is to bring together business experience, customer intelligence and AI 
 
 Key Features
 
-•	Customer Feedback Analysis: Understand customer sentiment and concerns. 
-•	Renewal Risk Identification: Highlight potential renewal risks. 
-•	Customer Health Insights: Assess customer engagement and satisfaction. 
-•	Smart Recommendations: Suggest proactive customer engagement actions. 
-•	QBR Preparation: Support Quarterly Business Review preparation. 
+•	Customer Feedback Analysis: Understand customer sentiment and concerns.   
+•	Renewal Risk Identification: Highlight potential renewal risks.   
+•	Customer Health Insights: Assess customer engagement and satisfaction.   
+•	Smart Recommendations: Suggest proactive customer engagement actions.   
+•	QBR Preparation: Support Quarterly Business Review preparation.   
 
 Business Use Cases
 
@@ -31,12 +31,12 @@ Technology Stack
 
 Development Roadmap
  
-•	Project concept and business objectives 
-•	Customer feedback analysis prototype 
-•	AI-based sentiment analysis 
-•	Renewal risk identification 
-•	Customer health dashboard 
-•	Practical demonstration 
+•	Project concept and business objectives   
+•	Customer feedback analysis prototype   
+•	AI-based sentiment analysis   
+•	Renewal risk identification   
+•	Customer health dashboard   
+•	Practical demonstration   
 
 Project Philosophy 
 

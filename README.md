@@ -21,7 +21,7 @@ Business Use Cases
 3.	Account health monitoring. 
 4.	Customer engagement. 
 5.	Strategic account management.
-6.	
+
 Technology Stack
  
 •	Python 
@@ -44,11 +44,11 @@ AI should not replace customer relationships. It should help professionals under
 
 About the Author 
 
-Prem Kumar Loganathan
-Senior Customer Success & Client Partner | Business Development | SaaS | AI & Human-AI Collaboration
-LinkedIn: https://www.linkedin.com/in/premkumarloganathan/
-Doman: www.d247consulting.in
-Email: pk@d247consulting.in
+Prem Kumar Loganathan  
+Senior Customer Success & Client Partner | Business Development | SaaS | AI & Human-AI Collaboration  
+LinkedIn: https://www.linkedin.com/in/premkumarloganathan/  
+Doman: www.d247consulting.in  
+Email: pk@d247consulting.in  
 ________________________________________
 This is an independent learning and experimentation project. Features are subject to development
 
